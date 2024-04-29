@@ -1,10 +1,10 @@
 # UK DRI Care Research and Technology Centre Data Engineering Task
 
-Python code for the technical assessment for the role of Data Engineer on the Minder project. The task to predict whether a house has multiple occupents or just one according to motion sensor data set across rooms of the house. 
+Python code for the technical assessment for the role of Data Engineer on the Minder project. The task is to predict whether a house has multiple occupants or just one according to motion sensor data set across rooms of the house. 
 
 ## Getting started
 
-The jupyter notebook with outputs is available in the python folder. The requirements.txt file can recreate the venv with all of the python packages used to analyse the data
+The jupyter notebook with outputs is available in the python folder. The requirements.txt file can recreate the venv with all of the python packages used to analyse the data.
 
 ## Outline of analysis process
 
