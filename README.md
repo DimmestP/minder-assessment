@@ -10,8 +10,8 @@ The jupyter notebook with outputs is available in the python folder. The require
 
 - [x] Import sqlite data in pandas
 - [x] Initial data exploration (Num of houses, rooms, time points)
-- [ ] Data cleaning (any duplicates? missing data)
-- [ ] Convert event-based record to hourly counts (maybe check if half-hourly or daily is better?)
+- [x] Data cleaning (any duplicates? missing data)
+- [x] Convert event-based record to hourly counts (maybe check if half-hourly or daily is better?)
 - [ ] Fit multivariate time series data to different data
 - [ ] Split data into train-test (according to houses)
 - [ ] Train classifier on time series parameters
