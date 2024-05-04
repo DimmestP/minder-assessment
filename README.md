@@ -12,6 +12,6 @@ The jupyter notebook with outputs is available in the python folder. The require
 - [x] Initial data exploration (Num of houses, rooms, time points)
 - [x] Data cleaning (any duplicates? missing data)
 - [x] Convert event-based record to hourly counts (maybe check if half-hourly or daily is better?)
-- [ ] Fit multivariate time series data to different data
-- [ ] Split data into train-test (according to houses)
-- [ ] Train classifier on time series parameters
+- [x] Fit multivariate time series data to different data
+- [x] Test model using cross-validation
+- [x] Train classifier on time series parameters
